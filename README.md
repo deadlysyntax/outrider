@@ -45,4 +45,4 @@ The other part of Outrider is the user interface, which is built using Ionic 2 w
 
 The interface provides charts of all the monitored data and records of trade opportunities and completed trades. It provides insight into the actual numbers coming through from the exchanges, including calculated figures of profit/loss, profit percentage and fees.
 
-![Dashboard Example]({{ site.url }}/assets/dashboard.png)
+![Dashboard Example](outrider/assets/dashboard.png)
