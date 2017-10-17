@@ -40,14 +40,14 @@ One part is the bot engine which monitors the exchanges, calculates opportunitie
 
 The engine also connects to the database and provides API endpoints for our user interface.
 
-Here is the repository for the [Outrider Engine](https://github.com/deadlysyntax/outrider-engine)
+Here is the repository for the [Outrider Engine](https://github.com/deadlysyntax/outrider-engine).
 
 ### The user interface
 The other part of Outrider is the user interface, which is built using Ionic 2 with Angular 2. It can be deployed in the web browser or on a mobile device.
 
 The interface provides charts of all the monitored data and records of trade opportunities and completed trades. It provides insight into the actual numbers coming through from the exchanges, including calculated figures of profit/loss, profit percentage and fees.
 
-[Outrider Interface](https://github.com/deadlysyntax/outrider-interface)
+Here is the repository for the [Outrider Interface](https://github.com/deadlysyntax/outrider-interface).
 
 ![Dashboard](assets/dashboard.png)
 
